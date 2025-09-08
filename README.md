@@ -61,7 +61,11 @@ New York County offers the highest averages (~4 beds, ~3 baths).
 Other counties average 2–3 beds and 1–2 baths, suitable for smaller families.
 
 Summary:
-The New York housing market is highly diverse, with Manhattan commanding the highest property values and largest sqft range.
-Townhouses are the most expensive housing type. 
-Broker dominance is highly uneven, with Compass leading significantly.
-Families looking for larger homes should focus on New York County, while affordability is better in Queens and Staten Island.
+
+-> The New York housing market is highly diverse, with Manhattan commanding the highest property values and largest sqft range.
+
+-> Townhouses are the most expensive housing type.
+
+-> Broker dominance is highly uneven, with Compass leading significantly.
+
+-> Families looking for larger homes should focus on New York County, while affordability is better in Queens and Staten Island.
