@@ -1,7 +1,7 @@
 # New-York-Housing-Analysis
 Excel Project 📁 Project Overview This Excel project is a comprehensive New York housing dashboard that provides insights to New York Housing brokers and also the intersted buyers to find their ideal home.
 
-🛠 It visualizes three critical performance metrics:
+🛠 It visualizes three key performance metrics:
 
 Total Brokers: 4801
 
